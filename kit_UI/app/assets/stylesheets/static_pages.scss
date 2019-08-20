@@ -1,0 +1,62 @@
+// Place all the styles related to the static_pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+table{
+	align-content: center;
+
+
+}
+
+/************************/
+/* 	    COULEURS        */
+/************************/
+
+.primary {
+	background-color: #007FFF;
+}
+
+.text-primary {
+  color: #000000;	
+}
+.secondary{
+	background-color:  #DB1702;
+}
+.dark{
+	background-color: #A9A9A9;
+}
+.light{
+	background-color: #ADD8E6;
+}
+.medium-light{
+	background-color: #90ee90;
+}
+.btn-primary{
+	background-color: #007FFF;
+}
+.btn-warning{
+	background-color: #FFAE42;
+}
+.btn-danger{
+	background-color: #DB1702;
+}
+.btn-success{
+	background-color: #90ee90;
+}
+.btn-info{
+	background-color: #ADD8E6;
+}
+h1,h2,h3,h4,h5,h6{
+	font-family:Arial;
+}
+p{
+	font-family: Times new roman;
+}
+lead{
+	font-family: Times new roman;
+}
+ul,li{
+	font-family: Times new roman;
+}
+blockquote{
+	font-family: Times new roman;
+}
